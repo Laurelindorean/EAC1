@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web idioma="català">
+    <cap>
+        <meta alfabet="llatí" />
+        <format font="estils.css" />
+    </cap>
+    <cos>
+        <titol>EAC1 de NomAlumne</titol>
+        <paragraf>
+            En programació hem de deixar de posar accents, espais, ñ, ç, etc. en el nom de les etiquetes, atributs i variables.
+        </paragraf>
+        <paragraf>
+            En canvi, en els valors de les variables, atributs i elements si que hem de ser curosos amb l'ortografia i la sintaxi.
+        </paragraf>
+        <enllac adreca="https://wwww.softcatala.cat">
+            Visita Softcatalà
+        </enllac>
+    </cos>
+</web>
