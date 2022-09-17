@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CultiusCatalunya>
+    <Finca id="365A">
+        <codi_postal>43065</codi_postal>
+        <municipi>Gandesa</municipi>
+        <cultiu>Ametllers</cultiu>
+        <varietat>Comuna</varietat>
+        <HA tamany="hectarea">1,9</HA>
+        <Seca_Rega>R</Seca_Rega>
+        <Sist_Regad>Secà, reg de suport</Sist_Regad>
+    </Finca>
+    <Finca id="437B">
+        <codi_postal>43123</codi_postal>
+        <municipi>Rasquera</municipi>
+        <cultiu>Albercoquers</cultiu>
+        <varietat>Mogador</varietat>
+        <HA tamany="hectarea">0,34</HA>
+        <Seca_Rega>R</Seca_Rega>
+        <Sist_Regad>Degoteig</Sist_Regad>
+    </Finca>
+    <Finca id="2143A">
+        <codi_postal>25074</codi_postal>
+        <municipi>Camarasa</municipi>
+        <cultiu>Alfals</cultiu>
+        <varietat>Ambra</varietat>
+        <HA tamany="hectarea">2,54</HA>
+        <Seca_Rega>S</Seca_Rega>
+        <Sist_Regad />
+    </Finca>
+</CultiusCatalunya>
